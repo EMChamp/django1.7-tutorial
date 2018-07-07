@@ -1,4 +1,4 @@
-#!/Users/rommelsunga/Projects/mysite/bin/python
+#!/Users/rommelsunga/Projects/django1.7-tutorial/bin/python
 
 import sys
 import getopt
